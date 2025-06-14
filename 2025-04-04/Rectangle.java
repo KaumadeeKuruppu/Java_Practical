@@ -10,7 +10,6 @@ class Rectangle{
 		height=3;
 	}
 	
-	
 	Rectangle(int height, int width){
 		this.width=width;
 		this.height=height;
