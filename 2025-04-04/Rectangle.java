@@ -1,6 +1,6 @@
 class Rectangle{
 	
-	 int  width;
+	 private int  width;
 	 int height;
 	
 	
